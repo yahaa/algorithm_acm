@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5926b601-7ad3-4ddd-a92b-f1d2dac66674" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/zihua/chapter_1/Test7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/zihua/chapter_1/Test8.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/zihua/chapter_1/Test6.java" afterPath="$PROJECT_DIR$/src/com/zihua/chapter_1/Test6.java" />
     </list>
     <ignored path="algorithm_design.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -94,15 +93,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test7.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test7.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zihua/chapter_1/Test7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state relative-caret-position="819">
+              <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
               <folding>
                 <element signature="e#184#185#0" expanded="true" />
                 <element signature="e#220#221#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test8.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zihua/chapter_1/Test8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -145,6 +154,7 @@
         <option value="$PROJECT_DIR$/src/com/zihua/chapter_1/Test5.java" />
         <option value="$PROJECT_DIR$/src/com/zihua/chapter_1/Test6.java" />
         <option value="$PROJECT_DIR$/src/com/zihua/chapter_1/Test7.java" />
+        <option value="$PROJECT_DIR$/src/com/zihua/chapter_1/Test8.java" />
       </list>
     </option>
   </component>
@@ -257,27 +267,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaProject/UPUP" />
   </component>
-  <component name="RunManager" selected="Application.Test7">
-    <configuration default="false" name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zihua.chapter_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zihua.chapter_1.Test3" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algorithm_design" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Test8">
     <configuration default="false" name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -346,6 +336,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.zihua.chapter_1.Test7" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm_design" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zihua.chapter_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.zihua.chapter_1.Test8" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -786,19 +796,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test3" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test4" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test5" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test6" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test7" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test4" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test5" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test6" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test7" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test8" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test7" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test6" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test5" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test4" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test3" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test8" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test7" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test6" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test5" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test4" />
       </list>
     </recent_temporary>
   </component>
@@ -815,12 +825,12 @@
       <workItem from="1479625972996" duration="792000" />
       <workItem from="1479626775955" duration="15405000" />
       <workItem from="1479718389960" duration="11207000" />
-      <workItem from="1479735392114" duration="2083000" />
+      <workItem from="1479735392114" duration="3535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29487000" />
+    <option name="totallyTimeSpent" value="30939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1440" height="904" extended-state="6" />
@@ -828,7 +838,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987013" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -1129,12 +1139,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zihua/chapter_1/Test7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="819">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
           <folding>
             <element signature="e#184#185#0" expanded="true" />
             <element signature="e#220#221#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zihua/chapter_1/Test8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+          <folding />
         </state>
       </provider>
     </entry>
