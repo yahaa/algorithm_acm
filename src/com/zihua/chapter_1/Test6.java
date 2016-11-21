@@ -62,6 +62,7 @@ public class Test6 {
             bu.append("\n");
         }
         System.out.println(bu);
+
     }
 
     public void solve(){
